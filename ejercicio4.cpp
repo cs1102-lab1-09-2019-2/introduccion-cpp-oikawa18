@@ -1,6 +1,8 @@
 
+#include <iostream>
+using namespace std;
 int main() {
-    i = 1;
+    int i = 1,c;
 
     // Post-incremento asigna i a c y luego incrementa i
     c = i++;
