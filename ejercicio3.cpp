@@ -1,8 +1,12 @@
 #include <iostream>
-using std::cout;
 
-int main() {
-    for (int i = 0; i < ; i++) {
-        //imprimir los 10 numeros [0-9]
-    }
+    int main() {
+      int x;
+
+        for( x=0;x<10;x++)
+
+            std::cout << x << std::endl;
+        
+            return 0;
+        
 }
